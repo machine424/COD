@@ -1,0 +1,36 @@
+{
+  "themes": [
+    "nature",
+    "politics",
+    "religions",
+    "technology",
+    "healthcare",
+    "education",
+    "science",
+    "business",
+    "culture",
+    "lifestyle"
+  ],
+  "dates": [
+    "2000",
+    "2005",
+    "2010",
+    "2015"
+  ],
+  "duration": {
+    "min": 135,
+    "max": 4587
+  },
+  "views": {
+    "min": 50443,
+    "max": 47227110
+  },
+  "comments": {
+    "min": 2,
+    "max": 4553
+  },
+  "languages": {
+    "min": 0,
+    "max": 72
+  }
+}
